@@ -1,0 +1,5 @@
+mail.wugeek.com               	140.143.8.166
+pop3.wugeek.com               	140.143.8.166
+pop.wugeek.com                	140.143.8.166
+cas.wugeek.com                	180.76.158.123
+style.wugeek.com              	154.8.220.34
